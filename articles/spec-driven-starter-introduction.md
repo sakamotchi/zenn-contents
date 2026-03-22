@@ -98,10 +98,12 @@ cp -r /tmp/spec-driven-starter/skills/generate-working-docs /path/to/my-project/
 
 ## Step 2: 永続化ドキュメントの生成
 
-Claude Codeを起動して「永続化ドキュメントを作成して」と依頼するだけです。
+Claude Codeを起動して「永続化ドキュメントを作成して」と依頼するか、スラッシュコマンド `/generate-steering-docs` で起動するだけです。
 
 ```
 User: 永続化ドキュメントを作成して
+# または
+User: /generate-steering-docs
 Claude: プロダクトについていくつか質問させてください。
         1. プロダクト名は？
         2. どんなプロダクトですか？
