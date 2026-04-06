@@ -4,6 +4,7 @@ emoji: "🚀"
 type: "tech"
 topics: ["AI", "Claude", "仕様駆動開発", "開発手法", "ドキュメント"]
 published: true
+publication_name: "third_tech"
 ---
 
 # はじめに
