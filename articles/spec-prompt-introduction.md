@@ -3,7 +3,8 @@ title: "仕様駆動開発のための軽量デスクトップアプリを作っ
 emoji: "🖥️"
 type: "tech"
 topics: ["Tauri", "AI", "Claude", "仕様駆動開発", "デスクトップアプリ"]
-published: false
+published: true
+publication_name: "third_tech"
 ---
 
 # はじめに
@@ -13,7 +14,7 @@ published: false
 1. **仕様ドキュメント（Markdown）を読む**
 2. **ターミナルでAI CLIに指示を出す**
 
-この2つをやるだけならVS Codeは重すぎる。メモリ1GBを使うIDEのエディタ機能やデバッガはほぼ使いません。コードを書くのはAIの仕事だからです。
+この2つをやるだけならVS Codeは重すぎる。メモリ1GBを使うIDEのエディタ機能やデバッガはほぼ使いません。コーディングやドキュメント作成などの作業をするのはAIの仕事だからです。
 
 そこで、Markdownプレビューと統合ターミナルだけを備えた軽量デスクトップアプリ「**SpecPrompt**」を作りました。
 
