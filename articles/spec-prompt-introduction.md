@@ -3,7 +3,7 @@ title: "仕様駆動開発のための軽量デスクトップアプリを作っ
 emoji: "🖥️"
 type: "tech"
 topics: ["Tauri", "AI", "Claude", "仕様駆動開発", "デスクトップアプリ"]
-published: true
+published: false
 ---
 
 # はじめに
