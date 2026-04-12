@@ -4,6 +4,7 @@ emoji: "📄"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["VSCode", "Markdown", "Mermaid", "TypeScript", "AI"]
 published: true
+publication_name: "third_tech"
 ---
 
 # はじめに

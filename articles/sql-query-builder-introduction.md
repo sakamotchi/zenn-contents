@@ -4,6 +4,7 @@ emoji: "🗃️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AI", "Claude", "SQL", "Tauri", "Nuxt"]
 published: true
+publication_name: "third_tech"
 ---
 
 # はじめに
